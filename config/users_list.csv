@@ -1,0 +1,4 @@
+username,group,shell
+ahmed_dev,developers,/bin/bash
+sara_ops,sysadmins,/bin/bash
+mora_qa,testers,/bin/bash
